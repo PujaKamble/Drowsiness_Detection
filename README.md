@@ -235,7 +235,7 @@ source '0' for webcam
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PujaKamble/Drowsiness_Detection/blob/main/nano_image.jpg)
 
 
 ## Advantages
