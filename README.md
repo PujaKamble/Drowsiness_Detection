@@ -90,6 +90,11 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 • In our model we have used JetPack version 4.6 which is the latest production release and
 supports all Jetson modules.
 
+## Screenshots
+
+![App Screenshot](https://github.com/PujaKamble/Drowsiness_Detection/blob/main/nano_image.jpg)
+
+
 ## Methodology
 
 The Drowsiness detection system is a program that focuses on implementing real time drowsiness
@@ -233,9 +238,6 @@ source '0' for webcam
 ```bash
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
-## Screenshots
-
-![App Screenshot](https://github.com/PujaKamble/Drowsiness_Detection/blob/main/nano_image.jpg)
 
 
 ## Advantages
