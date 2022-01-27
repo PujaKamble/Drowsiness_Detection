@@ -232,15 +232,16 @@ Insert gif or link to demo
 
 
 ## Running Drowsiness Detection Model
+
 source '0' for webcam
 
 ```bash
-!python det
-
-https://user-images.githubusercontent.com/98114997/151415263-3c016fae-7f46-4157-bf6e-6bcf75552a74.mp4
-
-ect.py --weights best.pt --img 416 --conf 0.1 --source 0
+!python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
+
+
+
+https://user-images.githubusercontent.com/98114997/151416207-2369681a-7ff2-40ba-858d-9e31c5322d89.mp4
 
 
 ## Advantages
