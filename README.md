@@ -90,7 +90,6 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 • In our model we have used JetPack version 4.6 which is the latest production release and
 supports all Jetson modules.
 
-## Screenshots
 
 ![App Screenshot](https://github.com/PujaKamble/Drowsiness_Detection/blob/main/nano_image.jpg)
 
@@ -236,7 +235,11 @@ Insert gif or link to demo
 source '0' for webcam
 
 ```bash
-!python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
+!python det
+
+https://user-images.githubusercontent.com/98114997/151415263-3c016fae-7f46-4157-bf6e-6bcf75552a74.mp4
+
+ect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
 
 
