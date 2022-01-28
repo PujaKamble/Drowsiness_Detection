@@ -1,7 +1,7 @@
 # Drowsiness Detection on Yolov5 using Jetson Nano 2gb Developer Kit
 
 
-### Drowsiness detection system which will detect whether a person is feeling sleepy or not based on his/her behaviour of yawning while driving a vehicle.
+### Drowsiness detection system which will detect whether a person is feeling sleepy or not based on his/her behaviour of yawning while driving a vehicle
 
 ## Aim
 To create a Drowsiness detection system which will detect whether a person is feeling sleepy
